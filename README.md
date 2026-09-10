@@ -4,17 +4,20 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=950&lines=Linux+%C2%B7+Python+%C2%B7+C+%C2%B7+Networks+%C2%B7+Cybersecurity;Build+%C2%B7+Learn+%C2%B7+Automate+%C2%B7+Repeat;Creating+projects+with+identity+and+purpose" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=1010E8&center=true&vCenter=true&width=950&lines=Linux+%C2%B7+Python+%C2%B7+C+%C2%B7+Networks+%C2%B7+Cybersecurity;Build+%C2%B7+Learn+%C2%B7+Automate+%C2%B7+Repeat;Creating+projects+with+identity+and+purpose"
+  alt="Typing SVG"
+/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Profile-Tinostackpro-1010E8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Linux%20%7C%20Networks%20%7C%20Cybersecurity-F5F4EF?style=for-the-badge&labelColor=1010E8&color=F5F4EF" />
-<img src="https://img.shields.io/badge/Status-Building%20Projects-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Profile-Tinostackpro-1010E8?style=for-the-badge" alt="Profile Tinostackpro">
+<img src="https://img.shields.io/badge/Focus-Linux%20%7C%20Networks%20%7C%20Cybersecurity-F5F4EF?style=for-the-badge&labelColor=1010E8&color=F5F4EF" alt="Focus">
+<img src="https://img.shields.io/badge/Status-Building%20Projects-080808?style=for-the-badge" alt="Status">
 
 <br><br>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3rDVDZG01OzvmgQbAYfH9TylvYkcuEP2lWgxDtk2NEw&s=10" width="420" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF">
 
 </div>
 
@@ -32,19 +35,19 @@
 
 ## 🦾 Faaala, aqui é o Constantino
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia.
+
 Meu foco está em **Linux, redes, infraestrutura, desenvolvimento, automação e cibersegurança**.
 
-Gosto de transformar ideias em projetos com **identidade visual, propósito técnico e aplicação prática**.  
-Aqui no GitHub, eu uso cada repositório como parte da minha construção profissional e técnica.
+Gosto de transformar ideias em projetos com **identidade visual, propósito técnico e aplicação prática**. Aqui no GitHub, uso cada repositório como parte da minha evolução profissional e técnica.
 
 ### 🧠 O que você vai encontrar por aqui
 
 - 🐧 Projetos baseados em **Linux**
 - 💻 Aplicações e experiências em **Python** e **C**
 - 🌐 Estudos e projetos de **redes e infraestrutura**
-- 🔐 Interesse crescente em **cibersegurança**
-- ⚙️ Testes com **automação, scripts e IA**
+- 🔐 Projetos e estudos em **cibersegurança**
+- ⚙️ **Automação, scripts, IA e LLMs**
 - 🛠️ Soluções práticas ligadas a **suporte técnico**
 
 > Meu objetivo é construir um portfólio que una **qualidade técnica, consistência visual e evolução real**.
@@ -57,13 +60,14 @@ Aqui no GitHub, eu uso cada repositório como parte da minha construção profis
 ```yaml
 name: Constantino
 username: tinostackpro
-role: ADS and Student specializing in IT maintenance and support
+role: ADS Student | IT Maintenance & Support
 focus:
   - Linux
   - Python
   - C
   - Networks
   - Cybersecurity
+  - Automation
 mindset: build > learn > improve
 ```
 
@@ -72,8 +76,10 @@ mindset: build > learn > improve
 ```text
 [+] Estudando Linux
 [+] Evoluindo em Python e C
+[+] Aprofundando redes
 [+] Criando projetos próprios
-[+] Estruturando portfólio no GitHub
+[+] Estruturando portfólio
+[+] Explorando IA e LLMs
 ```
 
    </td>
@@ -92,24 +98,23 @@ mindset: build > learn > improve
 
 ### 💻 Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,c,bash" />
+<img src="https://skillicons.dev/icons?i=python,c,bash" alt="Python, C e Bash">
 
 <br><br>
 
 ### 🐧 Sistemas e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=linux,debian,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,debian,git,github,vscode" alt="Linux, Debian, Git, GitHub e VS Code">
 
 <br><br>
 
 ### 🎯 Áreas de Interesse
 
-<img src="https://img.shields.io/badge/Networks-F5F4EF?style=for-the-badge&logo=cisco&logoColor=1010E8&color=F5F4EF" />
-<img src="https://img.shields.io/badge/Cybersecurity-F5F4EF?style=for-the-badge&logo=hackthebox&logoColor=1010E8&color=F5F4EF" />
-<img src="https://img.shields.io/badge/Infrastructure-F5F4EF?style=for-the-badge&logo=linux&logoColor=1010E8&color=F5F4EF" />
-<img src="https://img.shields.io/badge/Automation-F5F4EF?style=for-the-badge&logo=githubactions&logoColor=1010E8&color=F5F4EF" />
-
-<br><br>
+<img src="https://img.shields.io/badge/Networks-F5F4EF?style=for-the-badge&logo=cisco&logoColor=1010E8&color=F5F4EF" alt="Networks">
+<img src="https://img.shields.io/badge/Cybersecurity-F5F4EF?style=for-the-badge&logo=hackthebox&logoColor=1010E8&color=F5F4EF" alt="Cybersecurity">
+<img src="https://img.shields.io/badge/Infrastructure-F5F4EF?style=for-the-badge&logo=linux&logoColor=1010E8&color=F5F4EF" alt="Infrastructure">
+<img src="https://img.shields.io/badge/Automation-F5F4EF?style=for-the-badge&logo=githubactions&logoColor=1010E8&color=F5F4EF" alt="Automation">
+<img src="https://img.shields.io/badge/AI%20%26%20LLMs-F5F4EF?style=for-the-badge&logo=openai&logoColor=1010E8&color=F5F4EF" alt="AI and LLMs">
 
 </div>
 
@@ -120,8 +125,6 @@ mindset: build > learn > improve
 </div>
 
 <br>
-
-<div align="center">
 
 <table>
   <tr>
@@ -136,12 +139,12 @@ mindset: build > learn > improve
   </tr>
   <tr>
     <td><b>📂 Hermes</b></td>
-    <td>Explorador de arquivos com identidade própria para o ecossistema Odyssey OS, com foco em usabilidade, personalização e acessibilidade.</td>
+    <td>Explorador de arquivos desenvolvido para o ecossistema Odyssey OS, com foco em usabilidade, personalização e acessibilidade.</td>
     <td>C • Linux • Desktop App • Acessibilidade</td>
   </tr>
   <tr>
     <td><b>✍️ Calíope</b></td>
-    <td>Editor de texto com proposta moderna, visual autoral e experiência consistente com o restante do sistema.</td>
+    <td>Editor de texto com proposta moderna, identidade visual própria e experiência consistente com o restante do ecossistema.</td>
     <td>Productivity • UI/UX • Desktop App</td>
   </tr>
   <tr>
@@ -151,19 +154,23 @@ mindset: build > learn > improve
   </tr>
   <tr>
     <td><b>🎮 Ágora: Crônicas de Atena</b></td>
-    <td>RPG educacional multidisciplinar em Python, com foco em tecnologia, lógica, cidadania digital e cibersegurança.</td>
+    <td>RPG educacional multidisciplinar em Python, com foco em tecnologia, lógica, cidadania digital, comunicação e cibersegurança.</td>
     <td>Python • Pygame • Educação • Gamificação</td>
   </tr>
 </table>
 
 <br>
 
----
-
 <div align="center">
-  <img src="./assets/github-stats.png" alt="GitHub Stats" width="100%">
-</div>
 
+### 🚀 Construindo um ecossistema próprio
+
+```text
+Odyssey OS
+├── Hermes   → Explorador de Arquivos
+├── Calíope  → Editor de Texto
+├── Argo     → Navegador
+└── Ágora    → RPG Educacional
 ```
 
 </div>
@@ -178,29 +185,25 @@ mindset: build > learn > improve
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&title_color=1010E8&icon_color=1010E8&text_color=080808&bg_color=F5F4EF" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tinostackpro&show_icons=true&hide_border=true&title_color=1010E8&icon_color=1010E8&text_color=080808&bg_color=F5F4EF" alt="GitHub Stats">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&title_color=1010E8&text_color=080808&bg_color=F5F4EF" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=default&hide_border=true&background=F5F4EF&ring=1010E8&fire=1010E8&currStreakLabel=1010E8" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinostackpro&layout=compact&hide_border=true&title_color=1010E8&text_color=080808&bg_color=F5F4EF" alt="Top Languages">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=F5F4EF&color=1010E8&line=1010E8&point=080808&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://streak-stats.demolab.com?user=tinostackpro&theme=default&hide_border=true&background=F5F4EF&ring=1010E8&fire=1010E8&currStreakLabel=1010E8" alt="GitHub Streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tinostackpro&bg_color=F5F4EF&color=1010E8&line=1010E8&point=080808&area=true&hide_border=true" alt="Activity Graph" width="100%">
 
 </div>
 
 ---
 
-</div>
-
-<br>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1010E8&height=70&section=header&text=Always%20building%20something%20new&fontColor=ffffff&fontSize=24" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1010E8&height=80&section=header&text=Always%20building%20something%20new&fontColor=ffffff&fontSize=24" width="100%" alt="Always building something new">
 
 </div>
 
@@ -215,27 +218,27 @@ mindset: build > learn > improve
 <div align="center">
 
 <a href="https://github.com/tinostackpro">
-  <img src="https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
 <a href="https://www.linkedin.com/in/tinostackpro/">
-  <img src="https://img.shields.io/badge/LinkedIn-1010E8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-1010E8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://instagram.com/tinostackpro" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-F5F4EF?style=for-the-badge&logo=instagram&logoColor=1010E8&color=F5F4EF" />
+
+<a href="https://instagram.com/tinostackpro">
+  <img src="https://img.shields.io/badge/Instagram-F5F4EF?style=for-the-badge&logo=instagram&logoColor=1010E8&color=F5F4EF" alt="Instagram">
 </a>
+
+<br><br>
 
 ### `Build · Learn · Automate · Repeat`
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=1010E8" alt="Profile views" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=tinostackpro&style=for-the-badge&color=1010E8" alt="Profile Views">
+
+<br><br>
+
+**Obrigado por visitar meu perfil.**
 
 </div>
-
-<!--
-PERSONALIZAÇÃO RÁPIDA
-
-1. Troque SEU_USUARIO pelo seu usuário do GitHub.
-2. Troque SEU_LINKEDIN pelo link completo do seu LinkedIn.
-3. Troque SEU_EMAIL pelo seu e-mail.
-4. Suba a pasta "assets" junto com este README.
-5. Se algum widget não funcionar, verifique se o username foi substituído corretamente.
--->
