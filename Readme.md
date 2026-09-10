@@ -177,8 +177,6 @@ mindset: build > learn > improve
 
 </div>
 
----
-
 <div align="center">
 
 <a href="https://github.com/tinostackpro">
