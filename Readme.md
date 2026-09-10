@@ -180,12 +180,6 @@ mindset: build > learn > improve
 ---
 
 <div align="center">
-  <img src="./assets/contact.png" alt="Contact" width="100%">
-</div>
-
-<br>
-
-<div align="center">
 
 <a href="https://github.com/tinostackpro">
   <img src="https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
