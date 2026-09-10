@@ -162,14 +162,12 @@ mindset: build > learn > improve
 
 <div align="center">
 
-### 🚀 Construindo um ecossistema próprio
+<br>
 
-```text
-Odyssey OS
-├── Hermes   → Explorador de Arquivos
-├── Calíope  → Editor de Texto
-├── Argo     → Navegador
-└── Ágora    → RPG Educacional
+<div align="center">
+  <img src="./assets/ecosystem.png" alt="Construindo um ecossistema próprio" width="100%">
+</div>
+
 ```
 
 </div>
