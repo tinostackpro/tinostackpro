@@ -17,7 +17,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF">
+<img src="https://i.pinimg.com/originals/9c/43/cf/9c43cfdecca3f3cc48d4023a9df0ab1e.gif" width="420" alt="Coding GIF">
 
 </div>
 
@@ -185,17 +185,37 @@ Odyssey OS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tinostackpro&show_icons=true&hide_border=true&title_color=1010E8&icon_color=1010E8&text_color=080808&bg_color=F5F4EF" alt="GitHub Stats">
+### 📊 Atividade no GitHub
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinostackpro&layout=compact&hide_border=true&title_color=1010E8&text_color=080808&bg_color=F5F4EF" alt="Top Languages">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinostackpro&theme=github_dark"
+  alt="GitHub Profile Summary"
+  width="100%"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=tinostackpro&theme=default&hide_border=true&background=F5F4EF&ring=1010E8&fire=1010E8&currStreakLabel=1010E8" alt="GitHub Streak">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinostackpro&theme=github_dark"
+  alt="Repos por linguagem"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tinostackpro&theme=github_dark"
+  alt="Linguagens mais usadas"
+/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tinostackpro&bg_color=F5F4EF&color=1010E8&line=1010E8&point=080808&area=true&hide_border=true" alt="Activity Graph" width="100%">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tinostackpro&theme=github_dark"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tinostackpro&theme=github_dark&utcOffset=-3"
+  alt="Horário produtivo"
+/>
 
 </div>
 
