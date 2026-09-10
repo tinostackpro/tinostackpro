@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3rDVDZG01OzvmgQbAYfH9TylvYkcuEP2lWgxDtk2NEw&s=10" width="420" alt="Coding GIF" />
 
 </div>
 
