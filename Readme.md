@@ -12,7 +12,7 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Profile-Tinostackpro-1010E8?style=for-the-badge" alt="Profile Tinostackpro">
-<img src="https://img.shields.io/badge/Focus-Linux%20%7C%20Networks%20%7C%20Cybersecurity-F5F4EF?style=for-the-badge&labelColor=1010E8&color=F5F4EF" alt="Tech">
+<img src="https://img.shields.io/badge/Tech-Linux%20%7C%20Networks%20%7C%20Cybersecurity-F5F4EF?style=for-the-badge&labelColor=1010E8&color=F5F4EF" alt="Tech">
 <img src="https://img.shields.io/badge/Status-Building%20Projects-080808?style=for-the-badge" alt="Status">
 
 <br><br>
