@@ -30,7 +30,7 @@
   <tr>
     <td width="60%" valign="top">
 
-## 👋 Olá, eu sou Constantino
+## 🦾 Faaala, aqui é o Constantino
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia.  
 Meu foco está em **Linux, redes, infraestrutura, desenvolvimento, automação e cibersegurança**.
@@ -155,8 +155,6 @@ mindset: build > learn > improve
     <td>Python • Pygame • Educação • Gamificação</td>
   </tr>
 </table>
-
-</div>
 
 <br>
 
