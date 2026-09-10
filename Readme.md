@@ -9,7 +9,7 @@
   alt="Typing SVG"
 />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Profile-Tinostackpro-1010E8?style=for-the-badge" alt="Profile Tinostackpro">
 <img src="https://img.shields.io/badge/Tech-Linux%20%7C%20Networks%20%7C%20Cybersecurity-F5F4EF?style=for-the-badge&labelColor=1010E8&color=F5F4EF" alt="Tech">
@@ -100,13 +100,13 @@ mindset: build > learn > improve
 
 <img src="https://skillicons.dev/icons?i=python,c,bash" alt="Python, C e Bash">
 
-<br><br>
+<br>
 
 ### 🐧 Sistemas e Ferramentas
 
 <img src="https://skillicons.dev/icons?i=linux,debian,git,github,vscode" alt="Linux, Debian, Git, GitHub e VS Code">
 
-<br><br>
+<br>
 
 ### 🎯 Áreas de Interesse
 
