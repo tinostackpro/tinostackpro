@@ -178,30 +178,6 @@ Odyssey OS
 ---
 
 <div align="center">
-  <img src="./assets/github-stats.png" alt="GitHub Stats" width="100%">
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tinostackpro&show_icons=true&hide_border=true&title_color=1010E8&icon_color=1010E8&text_color=080808&bg_color=F5F4EF" alt="GitHub Stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinostackpro&layout=compact&hide_border=true&title_color=1010E8&text_color=080808&bg_color=F5F4EF" alt="Top Languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=tinostackpro&theme=default&hide_border=true&background=F5F4EF&ring=1010E8&fire=1010E8&currStreakLabel=1010E8" alt="GitHub Streak">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tinostackpro&bg_color=F5F4EF&color=1010E8&line=1010E8&point=080808&area=true&hide_border=true" alt="Activity Graph" width="100%">
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1010E8&height=80&section=header&text=Always%20building%20something%20new&fontColor=ffffff&fontSize=24" width="100%" alt="Always building something new">
 
