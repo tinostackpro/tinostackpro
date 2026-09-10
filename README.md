@@ -158,7 +158,11 @@ mindset: build > learn > improve
 
 <br>
 
+---
+
 <div align="center">
+  <img src="./assets/github-stats.png" alt="GitHub Stats" width="100%">
+</div>
 
 ```
 
