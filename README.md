@@ -56,8 +56,8 @@ Aqui no GitHub, eu uso cada repositório como parte da minha construção profis
 
 ```yaml
 name: Constantino
-username: SEU_USUARIO
-role: ADS Student
+username: tinostackpro
+role: ADS and Student specializing in IT maintenance and support
 focus:
   - Linux
   - Python
@@ -111,8 +111,6 @@ mindset: build > learn > improve
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=flat&no-frame=true&row=1&margin-w=18&margin-h=12" alt="Trophies" />
-
 </div>
 
 ---
@@ -164,14 +162,6 @@ mindset: build > learn > improve
 
 <div align="center">
 
-### 🚀 Estrutura de portfólio sugerida
-
-```text
-📦 OdysseyOS
- ┣ 📂 Hermes
- ┣ ✍️ Caliope
- ┣ 🌐 Argo
- ┗ 🎮 Agora-Cronicas-de-Atena
 ```
 
 </div>
@@ -202,23 +192,6 @@ mindset: build > learn > improve
 
 ---
 
-## 🧭 Minha trajetória
-
-<div align="center">
-
-```text
-Suporte Técnico
-      │
-      ▼
-Redes e Infraestrutura
-      │
-      ▼
-Linux + Desenvolvimento
-      │
-      ▼
-Cibersegurança
-```
-
 </div>
 
 <br>
@@ -239,17 +212,15 @@ Cibersegurança
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/tinostackpro">
   <img src="https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/tinostackpro/">
   <img src="https://img.shields.io/badge/LinkedIn-1010E8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-F5F4EF?style=for-the-badge&logo=gmail&logoColor=1010E8&color=F5F4EF" />
+<a href="https://instagram.com/tinostackpro" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-F5F4EF?style=for-the-badge&logo=instagram&logoColor=1010E8&color=F5F4EF" />
 </a>
-
-<br><br>
 
 ### `Build · Learn · Automate · Repeat`
 
