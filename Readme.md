@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Tech-Linux%20%7C%20Networks%20%7C%20Cybersecurity-F5F4EF?style=for-the-badge&labelColor=1010E8&color=F5F4EF" alt="Tech">
 <img src="https://img.shields.io/badge/Status-Building%20Projects-080808?style=for-the-badge" alt="Status">
 
-<br><br>
+<br>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJkdDVoZGFwNGR6bTczbWIxOHM2azU4MTlvdHJpcGEzNnI3c2piciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif" width="420" alt="Coding GIF">
 
@@ -205,7 +205,7 @@ Odyssey OS
   <img src="https://img.shields.io/badge/Instagram-F5F4EF?style=for-the-badge&logo=instagram&logoColor=1010E8&color=F5F4EF" alt="Instagram">
 </a>
 
-<br><br>
+<br>
 
 ### `Build · Learn · Automate · Repeat`
 
