@@ -176,7 +176,6 @@ Odyssey OS
 </div>
 
 ---
-
 <div align="center">
   <img src="./assets/github-stats.png" alt="GitHub Stats" width="100%">
 </div>
@@ -187,19 +186,10 @@ Odyssey OS
 
 ### 📊 Atividade no GitHub
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=tinostackpro&show_icons=true&hide_border=true&title_color=1010E8&icon_color=1010E8&text_color=FFFFFF&bg_color=0D1117"
-  alt="GitHub Stats"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinostackpro&layout=compact&hide_border=true&title_color=1010E8&text_color=FFFFFF&bg_color=0D1117"
-  alt="Top Languages"
-/>
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
 
 </div>
+
 ---
 
 <div align="center">
